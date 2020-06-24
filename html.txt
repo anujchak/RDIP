@@ -6,7 +6,7 @@
 <body>
 
 <h1>Anuj chakraborty</h1>
-<h1>college name FIEM</h1>
+<h1>college name eIEM</h1>
 <h1>Strem ECE</h1>
 <p>My name is anuj</p>
 <p>i am a very good student as all knows</p>
