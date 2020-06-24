@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Anuj Chakraborty</title>
 </head>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Anuj chakraborty</h1>
+<h1>college name FIEM</h1>
+<h1>Strem ECE</h1>
 <p>My name is anuj</p>
 <p>i am a very good student as all knows</p>
 
 </body>
 </html>
+
