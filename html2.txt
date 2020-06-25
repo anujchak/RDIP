@@ -13,6 +13,27 @@ A paragraph with a floating image.
 <h1>Strem ECE</h1>
 <p>My name is anuj</p>
 <p>i am a very good student as all knows</p>
+<ol>
+  <li>nptel</li>
+   <ul>
+      <li>C</li>
+      <li>Python</li>
+      <li>Java</li>
+    </ul>
+  <li>coursera<!-- closing </li> tag not here! -->
+    <ul>
+      <li>C</li>
+      <li>Python</li>
+      <li>Java</li>
+    </ul>
+  </li>            <!-- Here's the closing </li> tag -->
+  <li>edx</li>
+<ul>
+      <li>C</li>
+      <li>Python</li>
+      <li>Java</li>
+    </ul>
+</ol>
 
 </body>
 </html>
