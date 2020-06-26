@@ -10,7 +10,7 @@ A paragraph with a floating image.
 </p>
 <h1>Anuj chakraborty</h1>
 <h1>college name FIEM</h1>
-<h1>Strem ECE</h1>
+<a href="https://www.coursera.org/learn/python-data">STREM</a>
 <p>My name is anuj</p>
 <p>i am a very good student as all knows</p>
 <ol>
