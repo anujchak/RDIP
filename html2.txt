@@ -5,7 +5,7 @@
 </head>
 <body>
 <p>
-<img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+<iframe src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Gambia_girl.jpg" width="200" height="200"></iframe>
 A paragraph with a floating image.
 </p>
 <div style="background-color:yellow">
