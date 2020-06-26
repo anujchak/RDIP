@@ -34,6 +34,23 @@ A paragraph with a floating image.
       <li>Java</li>
     </ul>
 </ol>
+<table border=1>
+<th>SUBJECT</th>
+<th>MARKS</th>
+<tr>
+	<td>math</td>
+	<td>90</td>
+</tr>
+<tr>
+	<td>english</td>
+	<td>70</td>
+</tr>
+<tr>
+	<td>digital</td>
+	<td>100</td>
+</tr>
+</table>
+
 
 </body>
 </html>
