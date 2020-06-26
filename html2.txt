@@ -8,8 +8,10 @@
 <img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
 A paragraph with a floating image.
 </p>
-<h1>Anuj chakraborty</h1>
-<h1>college name FIEM</h1>
+<div style="background-color:yellow">
+	<h1>Anuj chakraborty</h1>
+	<h1>college name FIEM</h1>
+</div>
 <a href="https://www.coursera.org/learn/python-data">STREM</a>
 <p>My name is anuj</p>
 <p>i am a very good student as all knows</p>
@@ -22,9 +24,11 @@ A paragraph with a floating image.
     </ul>
   <li>coursera<!-- closing </li> tag not here! -->
     <ul>
+      <div style="background-color:yellow">
       <li>C</li>
       <li>Python</li>
       <li>Java</li>
+      </div>
     </ul>
   </li>            <!-- Here's the closing </li> tag -->
   <li>edx</li>
