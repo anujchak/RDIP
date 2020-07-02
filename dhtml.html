@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
+
+
+<h2>My First Page</h2>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "1st July 2020!";
+
+var answer1 = "It's alright";
+var answer2 = "He is called 'Johnny'";
+var answer3 = 'He is called "Johnny"'; 
+
+document.getElementById("demo").innerHTML =
+answer1 + "<br>" + answer2 + "<br>" + answer3; 
+
+try {
+  adddlert("Welcome guest!");
+}
+catch(err) {
+  document.getElementById("demo").innerHTML = err.message;
+}
+
+
+</script>
+
+
+
+</body>
+</html>
